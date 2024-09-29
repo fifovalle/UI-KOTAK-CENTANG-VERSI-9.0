@@ -5,7 +5,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 ### 🚧 Status Proyek
 
 - **Status:** Selesai
-- **Tanggal Rilis Diharapkan:** Agustus 2024
+- **Tanggal Rilis Diharapkan:** September 2024
 
 ### 🚀 Fitur Utama
 
@@ -20,6 +20,8 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 Berikut adalah beberapa tampilan halaman website :
 
+![Screenshot 2024-09-29 165517](https://github.com/user-attachments/assets/57d72166-66c3-4d9b-8c13-f523b1bd5d1a)
+
 ## 📬 Kontak
 
 Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi saya melalui email di [fifanaufal10@gmail.com](mailto:fifanaufal10@gmail.com) atau terhubung dengan saya di [WhatsApp](https://wa.me/+6282318334287).
@@ -33,7 +35,7 @@ Kontribusi dan umpan balik dari komunitas sangat dihargai. Jika Anda ingin berko
 1. Clone repositori ini ke direktori web server Anda.
 
    ```
-   git clone
+   git clone https://github.com/fifovalle/UI-KOTAK-CENTANG-VERSI-9.0.git
 
    ```
 
